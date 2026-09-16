@@ -32,7 +32,19 @@ line *Account deletion request*.
 We verify that the request comes from the registered address and then delete the account on your
 behalf. Please allow up to **30 days**, though it is usually completed much sooner.
 
-## What is deleted
+## Deleting only your consultation history, and keeping your account
+
+You do not have to delete your whole account to remove your health information. Inside the app:
+
+- Open the **Case History** tab.
+- To remove one consultation, swipe or tap the delete control on that entry.
+- To remove all of them at once, tap **Clear All**.
+
+Either action deletes the consultation from our servers immediately, including the symptoms you
+described and the AI conversation. Your account, your remaining credits and your saved remedies
+are untouched. This cannot be undone.
+
+## What is deleted when you delete your account
 
 All of the following is erased permanently and cannot be recovered:
 
